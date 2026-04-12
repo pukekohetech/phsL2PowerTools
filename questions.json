@@ -1552,1457 +1552,1848 @@
         }
       ]
     },
+  {
+  "id": "24350-knowledgeassessment",
+  "title": "Knowledge Assessment - 24350 (v3) – Identify, select, maintain, and use power tools for BCATS projects",
+  "attachSignoff": true,
+  "subtitle": "Eight-tool knowledge table and PPE, safe use, care and maintenance table",
+  "usNumber": "24350",
+  "usVersion": "v3",
+  "credits": null,
+  "standardType": "",
+  "questions": [
     {
-      "id": "24350-knowledgeassessment",
-      "title": "Knowledge Assessment - 24350 (v3) – Identify, select, maintain, and use power tools for BCATS projects",
-      "attachSignoff": true,
-      "subtitle": "Eight-tool knowledge table and PPE, safe use, care and maintenance table",
-      "usNumber": "24350",
-      "usVersion": "v3",
-      "credits": null,
-      "standardType": "",
-      "questions": [
-        {
-          "id": "ka_q1_row1_tool_name",
-"text": "Name of power tool.\n(Minimum 8 required)\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Any valid portable power tool from the course is acceptable.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row1_used_for",
-          "text": "What is it used for?\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Student should state a sensible use for the chosen tool.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row1_good_choice",
-          "text": "What makes it a good choice to use it for that/those task(s)?\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Student should justify the choice for the task.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row1_different_tool",
-          "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Student should identify a changed condition that makes another tool more suitable.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row1_project1",
-          "text": "Project 1 \n(Tick if you used it for your project.)\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row1_project2",
-          "text": "Project 2 \n(Tick if you used it for your project.)\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row2_tool_name",
-          "text": "Name of power tool.\n(Minimum 8 required)\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Any valid portable power tool from the course is acceptable.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row2_used_for",
-          "text": "What is it used for?\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Student should state a sensible use for the chosen tool.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row2_good_choice",
-          "text": "What makes it a good choice to use it for that/those task(s)?\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Student should justify the choice for the task.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row2_different_tool",
-          "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Student should identify a changed condition that makes another tool more suitable.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row2_project1",
-          "text": "Project 1 \n(Tick if you used it for your project.)\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row2_project2",
-          "text": "Project 2 \n(Tick if you used it for your project.)\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row3_tool_name",
-          "text": "Name of power tool.\n(Minimum 8 required)\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Any valid portable power tool from the course is acceptable.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row3_used_for",
-          "text": "What is it used for?\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Student should state a sensible use for the chosen tool.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row3_good_choice",
-          "text": "What makes it a good choice to use it for that/those task(s)?\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Student should justify the choice for the task.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row3_different_tool",
-          "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Student should identify a changed condition that makes another tool more suitable.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row3_project1",
-          "text": "Project 1 \n(Tick if you used it for your project.)\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row3_project2",
-          "text": "Project 2 \n(Tick if you used it for your project.)\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row4_tool_name",
-          "text": "Name of power tool.\n(Minimum 8 required)\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Any valid portable power tool from the course is acceptable.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row4_used_for",
-          "text": "What is it used for?\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Student should state a sensible use for the chosen tool.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row4_good_choice",
-          "text": "What makes it a good choice to use it for that/those task(s)?\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Student should justify the choice for the task.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row4_different_tool",
-          "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Student should identify a changed condition that makes another tool more suitable.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row4_project1",
-          "text": "Project 1 \n(Tick if you used it for your project.)\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row4_project2",
-          "text": "Project 2 \n(Tick if you used it for your project.)\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row5_tool_name",
-          "text": "Name of power tool.\n(Minimum 8 required)\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Any valid portable power tool from the course is acceptable.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row5_used_for",
-          "text": "What is it used for?\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Student should state a sensible use for the chosen tool.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row5_good_choice",
-          "text": "What makes it a good choice to use it for that/those task(s)?\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Student should justify the choice for the task.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row5_different_tool",
-          "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Student should identify a changed condition that makes another tool more suitable.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row5_project1",
-          "text": "Project 1 \n(Tick if you used it for your project.)\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row5_project2",
-          "text": "Project 2 \n(Tick if you used it for your project.)\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row6_tool_name",
-          "text": "Name of power tool.\n(Minimum 8 required)\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Any valid portable power tool from the course is acceptable.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row6_used_for",
-          "text": "What is it used for?\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Student should state a sensible use for the chosen tool.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row6_good_choice",
-          "text": "What makes it a good choice to use it for that/those task(s)?\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Student should justify the choice for the task.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row6_different_tool",
-          "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Student should identify a changed condition that makes another tool more suitable.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row6_project1",
-          "text": "Project 1 \n(Tick if you used it for your project.)\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row6_project2",
-          "text": "Project 2 \n(Tick if you used it for your project.)\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row7_tool_name",
-          "text": "Name of power tool.\n(Minimum 8 required)\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Any valid portable power tool from the course is acceptable.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row7_used_for",
-          "text": "What is it used for?\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Student should state a sensible use for the chosen tool.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row7_good_choice",
-          "text": "What makes it a good choice to use it for that/those task(s)?\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Student should justify the choice for the task.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row7_different_tool",
-          "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Student should identify a changed condition that makes another tool more suitable.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row7_project1",
-          "text": "Project 1 \n(Tick if you used it for your project.)\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row7_project2",
-          "text": "Project 2 \n(Tick if you used it for your project.)\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row8_tool_name",
-          "text": "Name of power tool.\n(Minimum 8 required)\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Any valid portable power tool from the course is acceptable.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row8_used_for",
-          "text": "What is it used for?\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Student should state a sensible use for the chosen tool.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row8_good_choice",
-          "text": "What makes it a good choice to use it for that/those task(s)?\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Student should justify the choice for the task.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row8_different_tool",
-          "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Student should identify a changed condition that makes another tool more suitable.",
-          "type": "long",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row8_project1",
-          "text": "Project 1 \n(Tick if you used it for your project.)\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q1_row8_project2",
-          "text": "Project 2 \n(Tick if you used it for your project.)\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Tick or equivalent indication.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(x|✓|✔|tick|yes|used)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row1_tool_name",
-          "text": "Name of power tool\n(Minimum 8 required)\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Should match or correspond to the tool listed in the first table.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row1_ppe",
-          "text": "What PPE needs to be used?\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Accept relevant PPE for the listed tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row1_safe_use",
-          "text": "Describe, safe use of this tool.\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Student should describe safe operation suited to the chosen tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row1_care_and_maintenance",
-          "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 1",
-          "image": "blank.jpg",
-          "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row2_tool_name",
-          "text": "Name of power tool\n(Minimum 8 required)\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Should match or correspond to the tool listed in the first table.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row2_ppe",
-          "text": "What PPE needs to be used?\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Accept relevant PPE for the listed tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row2_safe_use",
-          "text": "Describe, safe use of this tool.\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Student should describe safe operation suited to the chosen tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row2_care_and_maintenance",
-          "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 2",
-          "image": "blank.jpg",
-          "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row3_tool_name",
-          "text": "Name of power tool\n(Minimum 8 required)\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Should match or correspond to the tool listed in the first table.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row3_ppe",
-          "text": "What PPE needs to be used?\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Accept relevant PPE for the listed tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row3_safe_use",
-          "text": "Describe, safe use of this tool.\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Student should describe safe operation suited to the chosen tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row3_care_and_maintenance",
-          "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 3",
-          "image": "blank.jpg",
-          "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row4_tool_name",
-          "text": "Name of power tool\n(Minimum 8 required)\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Should match or correspond to the tool listed in the first table.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row4_ppe",
-          "text": "What PPE needs to be used?\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Accept relevant PPE for the listed tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row4_safe_use",
-          "text": "Describe, safe use of this tool.\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Student should describe safe operation suited to the chosen tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row4_care_and_maintenance",
-          "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 4",
-          "image": "blank.jpg",
-          "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row5_tool_name",
-          "text": "Name of power tool\n(Minimum 8 required)\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Should match or correspond to the tool listed in the first table.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row5_ppe",
-          "text": "What PPE needs to be used?\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Accept relevant PPE for the listed tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row5_safe_use",
-          "text": "Describe, safe use of this tool.\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Student should describe safe operation suited to the chosen tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row5_care_and_maintenance",
-          "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 5",
-          "image": "blank.jpg",
-          "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row6_tool_name",
-          "text": "Name of power tool\n(Minimum 8 required)\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Should match or correspond to the tool listed in the first table.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row6_ppe",
-          "text": "What PPE needs to be used?\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Accept relevant PPE for the listed tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row6_safe_use",
-          "text": "Describe, safe use of this tool.\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Student should describe safe operation suited to the chosen tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row6_care_and_maintenance",
-          "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 6",
-          "image": "blank.jpg",
-          "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row7_tool_name",
-          "text": "Name of power tool\n(Minimum 8 required)\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Should match or correspond to the tool listed in the first table.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row7_ppe",
-          "text": "What PPE needs to be used?\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Accept relevant PPE for the listed tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row7_safe_use",
-          "text": "Describe, safe use of this tool.\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Student should describe safe operation suited to the chosen tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row7_care_and_maintenance",
-          "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 7",
-          "image": "blank.jpg",
-          "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row8_tool_name",
-          "text": "Name of power tool\n(Minimum 8 required)\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Should match or correspond to the tool listed in the first table.",
-          "type": "short",
-          "maxPoints": 1,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row8_ppe",
-          "text": "What PPE needs to be used?\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Accept relevant PPE for the listed tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row8_safe_use",
-          "text": "Describe, safe use of this tool.\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Student should describe safe operation suited to the chosen tool.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": ".+",
-              "flags": "i"
-            }
-          ]
-        },
-        {
-          "id": "ka_q2_row8_care_and_maintenance",
-          "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 8",
-          "image": "blank.jpg",
-          "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
-          "type": "long",
-          "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
-              "flags": "i"
-            }
-          ]
+      "id": "ka_q1_row1_tool_name",
+      "text": "Name of power tool.\n(Minimum 8 required)\nLine 1",
+      "image": "blank.jpg",
+      "hint": "Select a portable power tool from the course list.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q1_row1_used_for",
+      "text": "What is it used for?\nLine 1",
+      "image": "blank.jpg",
+      "hint": "Student should state a sensible use for the chosen tool.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row1_good_choice",
+      "text": "What makes it a good choice to use it for that/those task(s)?\nLine 1",
+      "image": "blank.jpg",
+      "hint": "Student should justify the choice for the task.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row1_different_tool",
+      "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 1",
+      "image": "blank.jpg",
+      "hint": "Student should identify a changed condition that makes another tool more suitable.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row1_project_use",
+      "text": "Which project did you use this power tool for?\nLine 1",
+      "image": "blank.jpg",
+      "hint": "Select the project where this tool was used.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Project 1|Project 2|Both Project 1 and Project 2)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Project 1",
+        "Project 2",
+        "Both Project 1 and Project 2",
+        "None"
+      ]
+    },
+
+    {
+      "id": "ka_q1_row2_tool_name",
+      "text": "Name of power tool.\n(Minimum 8 required)\nLine 2",
+      "image": "blank.jpg",
+      "hint": "Select a portable power tool from the course list.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q1_row2_used_for",
+      "text": "What is it used for?\nLine 2",
+      "image": "blank.jpg",
+      "hint": "Student should state a sensible use for the chosen tool.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row2_good_choice",
+      "text": "What makes it a good choice to use it for that/those task(s)?\nLine 2",
+      "image": "blank.jpg",
+      "hint": "Student should justify the choice for the task.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row2_different_tool",
+      "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 2",
+      "image": "blank.jpg",
+      "hint": "Student should identify a changed condition that makes another tool more suitable.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row2_project_use",
+      "text": "Which project did you use this power tool for?\nLine 2",
+      "image": "blank.jpg",
+      "hint": "Select the project where this tool was used.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Project 1|Project 2|Both Project 1 and Project 2)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Project 1",
+        "Project 2",
+        "Both Project 1 and Project 2",
+        "None"
+      ]
+    },
+
+    {
+      "id": "ka_q1_row3_tool_name",
+      "text": "Name of power tool.\n(Minimum 8 required)\nLine 3",
+      "image": "blank.jpg",
+      "hint": "Select a portable power tool from the course list.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q1_row3_used_for",
+      "text": "What is it used for?\nLine 3",
+      "image": "blank.jpg",
+      "hint": "Student should state a sensible use for the chosen tool.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row3_good_choice",
+      "text": "What makes it a good choice to use it for that/those task(s)?\nLine 3",
+      "image": "blank.jpg",
+      "hint": "Student should justify the choice for the task.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row3_different_tool",
+      "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 3",
+      "image": "blank.jpg",
+      "hint": "Student should identify a changed condition that makes another tool more suitable.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row3_project_use",
+      "text": "Which project did you use this power tool for?\nLine 3",
+      "image": "blank.jpg",
+      "hint": "Select the project where this tool was used.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Project 1|Project 2|Both Project 1 and Project 2)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Project 1",
+        "Project 2",
+        "Both Project 1 and Project 2",
+        "None"
+      ]
+    },
+
+    {
+      "id": "ka_q1_row4_tool_name",
+      "text": "Name of power tool.\n(Minimum 8 required)\nLine 4",
+      "image": "blank.jpg",
+      "hint": "Select a portable power tool from the course list.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q1_row4_used_for",
+      "text": "What is it used for?\nLine 4",
+      "image": "blank.jpg",
+      "hint": "Student should state a sensible use for the chosen tool.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row4_good_choice",
+      "text": "What makes it a good choice to use it for that/those task(s)?\nLine 4",
+      "image": "blank.jpg",
+      "hint": "Student should justify the choice for the task.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row4_different_tool",
+      "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 4",
+      "image": "blank.jpg",
+      "hint": "Student should identify a changed condition that makes another tool more suitable.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row4_project_use",
+      "text": "Which project did you use this power tool for?\nLine 4",
+      "image": "blank.jpg",
+      "hint": "Select the project where this tool was used.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Project 1|Project 2|Both Project 1 and Project 2)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Project 1",
+        "Project 2",
+        "Both Project 1 and Project 2",
+        "None"
+      ]
+    },
+
+    {
+      "id": "ka_q1_row5_tool_name",
+      "text": "Name of power tool.\n(Minimum 8 required)\nLine 5",
+      "image": "blank.jpg",
+      "hint": "Select a portable power tool from the course list.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q1_row5_used_for",
+      "text": "What is it used for?\nLine 5",
+      "image": "blank.jpg",
+      "hint": "Student should state a sensible use for the chosen tool.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row5_good_choice",
+      "text": "What makes it a good choice to use it for that/those task(s)?\nLine 5",
+      "image": "blank.jpg",
+      "hint": "Student should justify the choice for the task.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row5_different_tool",
+      "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 5",
+      "image": "blank.jpg",
+      "hint": "Student should identify a changed condition that makes another tool more suitable.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row5_project_use",
+      "text": "Which project did you use this power tool for?\nLine 5",
+      "image": "blank.jpg",
+      "hint": "Select the project where this tool was used.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Project 1|Project 2|Both Project 1 and Project 2)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Project 1",
+        "Project 2",
+        "Both Project 1 and Project 2",
+        "None"
+      ]
+    },
+
+    {
+      "id": "ka_q1_row6_tool_name",
+      "text": "Name of power tool.\n(Minimum 8 required)\nLine 6",
+      "image": "blank.jpg",
+      "hint": "Select a portable power tool from the course list.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q1_row6_used_for",
+      "text": "What is it used for?\nLine 6",
+      "image": "blank.jpg",
+      "hint": "Student should state a sensible use for the chosen tool.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row6_good_choice",
+      "text": "What makes it a good choice to use it for that/those task(s)?\nLine 6",
+      "image": "blank.jpg",
+      "hint": "Student should justify the choice for the task.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row6_different_tool",
+      "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 6",
+      "image": "blank.jpg",
+      "hint": "Student should identify a changed condition that makes another tool more suitable.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row6_project_use",
+      "text": "Which project did you use this power tool for?\nLine 6",
+      "image": "blank.jpg",
+      "hint": "Select the project where this tool was used.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Project 1|Project 2|Both Project 1 and Project 2)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Project 1",
+        "Project 2",
+        "Both Project 1 and Project 2",
+        "None"
+      ]
+    },
+
+    {
+      "id": "ka_q1_row7_tool_name",
+      "text": "Name of power tool.\n(Minimum 8 required)\nLine 7",
+      "image": "blank.jpg",
+      "hint": "Select a portable power tool from the course list.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q1_row7_used_for",
+      "text": "What is it used for?\nLine 7",
+      "image": "blank.jpg",
+      "hint": "Student should state a sensible use for the chosen tool.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row7_good_choice",
+      "text": "What makes it a good choice to use it for that/those task(s)?\nLine 7",
+      "image": "blank.jpg",
+      "hint": "Student should justify the choice for the task.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row7_different_tool",
+      "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 7",
+      "image": "blank.jpg",
+      "hint": "Student should identify a changed condition that makes another tool more suitable.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row7_project_use",
+      "text": "Which project did you use this power tool for?\nLine 7",
+      "image": "blank.jpg",
+      "hint": "Select the project where this tool was used.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Project 1|Project 2|Both Project 1 and Project 2)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Project 1",
+        "Project 2",
+        "Both Project 1 and Project 2",
+        "None"
+      ]
+    },
+
+    {
+      "id": "ka_q1_row8_tool_name",
+      "text": "Name of power tool.\n(Minimum 8 required)\nLine 8",
+      "image": "blank.jpg",
+      "hint": "Select a portable power tool from the course list.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q1_row8_used_for",
+      "text": "What is it used for?\nLine 8",
+      "image": "blank.jpg",
+      "hint": "Student should state a sensible use for the chosen tool.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row8_good_choice",
+      "text": "What makes it a good choice to use it for that/those task(s)?\nLine 8",
+      "image": "blank.jpg",
+      "hint": "Student should justify the choice for the task.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row8_different_tool",
+      "text": "What would be different about that/those task(s) that would cause you to select a different tool?\nLine 8",
+      "image": "blank.jpg",
+      "hint": "Student should identify a changed condition that makes another tool more suitable.",
+      "type": "long",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q1_row8_project_use",
+      "text": "Which project did you use this power tool for?\nLine 8",
+      "image": "blank.jpg",
+      "hint": "Select the project where this tool was used.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Project 1|Project 2|Both Project 1 and Project 2)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Project 1",
+        "Project 2",
+        "Both Project 1 and Project 2",
+        "None"
+      ]
+    },
+
+    {
+      "id": "ka_q2_row1_tool_name",
+      "text": "Name of power tool\n(Minimum 8 required)\nLine 1",
+      "image": "blank.jpg",
+      "hint": "Should match or correspond to the tool listed in the first table.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q2_row1_ppe",
+      "text": "What PPE needs to be used?\nLine 1",
+      "image": "blank.jpg",
+      "hint": "Accept relevant PPE for the listed tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row1_safe_use",
+      "text": "Describe, safe use of this tool.\nLine 1",
+      "image": "blank.jpg",
+      "hint": "Student should describe safe operation suited to the chosen tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row1_care_and_maintenance",
+      "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 1",
+      "image": "blank.jpg",
+      "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
+          "flags": "i"
+        }
+      ]
+    },
+
+    {
+      "id": "ka_q2_row2_tool_name",
+      "text": "Name of power tool\n(Minimum 8 required)\nLine 2",
+      "image": "blank.jpg",
+      "hint": "Should match or correspond to the tool listed in the first table.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q2_row2_ppe",
+      "text": "What PPE needs to be used?\nLine 2",
+      "image": "blank.jpg",
+      "hint": "Accept relevant PPE for the listed tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row2_safe_use",
+      "text": "Describe, safe use of this tool.\nLine 2",
+      "image": "blank.jpg",
+      "hint": "Student should describe safe operation suited to the chosen tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row2_care_and_maintenance",
+      "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 2",
+      "image": "blank.jpg",
+      "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
+          "flags": "i"
+        }
+      ]
+    },
+
+    {
+      "id": "ka_q2_row3_tool_name",
+      "text": "Name of power tool\n(Minimum 8 required)\nLine 3",
+      "image": "blank.jpg",
+      "hint": "Should match or correspond to the tool listed in the first table.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q2_row3_ppe",
+      "text": "What PPE needs to be used?\nLine 3",
+      "image": "blank.jpg",
+      "hint": "Accept relevant PPE for the listed tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row3_safe_use",
+      "text": "Describe, safe use of this tool.\nLine 3",
+      "image": "blank.jpg",
+      "hint": "Student should describe safe operation suited to the chosen tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row3_care_and_maintenance",
+      "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 3",
+      "image": "blank.jpg",
+      "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
+          "flags": "i"
+        }
+      ]
+    },
+
+    {
+      "id": "ka_q2_row4_tool_name",
+      "text": "Name of power tool\n(Minimum 8 required)\nLine 4",
+      "image": "blank.jpg",
+      "hint": "Should match or correspond to the tool listed in the first table.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q2_row4_ppe",
+      "text": "What PPE needs to be used?\nLine 4",
+      "image": "blank.jpg",
+      "hint": "Accept relevant PPE for the listed tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row4_safe_use",
+      "text": "Describe, safe use of this tool.\nLine 4",
+      "image": "blank.jpg",
+      "hint": "Student should describe safe operation suited to the chosen tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row4_care_and_maintenance",
+      "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 4",
+      "image": "blank.jpg",
+      "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
+          "flags": "i"
+        }
+      ]
+    },
+
+    {
+      "id": "ka_q2_row5_tool_name",
+      "text": "Name of power tool\n(Minimum 8 required)\nLine 5",
+      "image": "blank.jpg",
+      "hint": "Should match or correspond to the tool listed in the first table.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q2_row5_ppe",
+      "text": "What PPE needs to be used?\nLine 5",
+      "image": "blank.jpg",
+      "hint": "Accept relevant PPE for the listed tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row5_safe_use",
+      "text": "Describe, safe use of this tool.\nLine 5",
+      "image": "blank.jpg",
+      "hint": "Student should describe safe operation suited to the chosen tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row5_care_and_maintenance",
+      "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 5",
+      "image": "blank.jpg",
+      "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
+          "flags": "i"
+        }
+      ]
+    },
+
+    {
+      "id": "ka_q2_row6_tool_name",
+      "text": "Name of power tool\n(Minimum 8 required)\nLine 6",
+      "image": "blank.jpg",
+      "hint": "Should match or correspond to the tool listed in the first table.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q2_row6_ppe",
+      "text": "What PPE needs to be used?\nLine 6",
+      "image": "blank.jpg",
+      "hint": "Accept relevant PPE for the listed tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row6_safe_use",
+      "text": "Describe, safe use of this tool.\nLine 6",
+      "image": "blank.jpg",
+      "hint": "Student should describe safe operation suited to the chosen tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row6_care_and_maintenance",
+      "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 6",
+      "image": "blank.jpg",
+      "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
+          "flags": "i"
+        }
+      ]
+    },
+
+    {
+      "id": "ka_q2_row7_tool_name",
+      "text": "Name of power tool\n(Minimum 8 required)\nLine 7",
+      "image": "blank.jpg",
+      "hint": "Should match or correspond to the tool listed in the first table.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q2_row7_ppe",
+      "text": "What PPE needs to be used?\nLine 7",
+      "image": "blank.jpg",
+      "hint": "Accept relevant PPE for the listed tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row7_safe_use",
+      "text": "Describe, safe use of this tool.\nLine 7",
+      "image": "blank.jpg",
+      "hint": "Student should describe safe operation suited to the chosen tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row7_care_and_maintenance",
+      "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 7",
+      "image": "blank.jpg",
+      "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
+          "flags": "i"
+        }
+      ]
+    },
+
+    {
+      "id": "ka_q2_row8_tool_name",
+      "text": "Name of power tool\n(Minimum 8 required)\nLine 8",
+      "image": "blank.jpg",
+      "hint": "Should match or correspond to the tool listed in the first table.",
+      "type": "mc",
+      "maxPoints": 1,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Power screwdriver|Impact driver|Jigsaw|Reciprocating saw|Portable circular saw|Router|Power planer|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "flags": "i"
+        }
+      ],
+      "options": [
+        "Portable electric drill",
+        "Cordless drill",
+        "Hammer drill",
+        "Angle drill",
+        "Post hole borer",
+        "Power screwdriver",
+        "Impact driver",
+        "Jigsaw",
+        "Reciprocating saw",
+        "Portable circular saw",
+        "Router",
+        "Power planer",
+        "Finishing sander",
+        "Belt sander",
+        "Disc sander",
+        "Disc grinder",
+        "Biscuit jointer",
+        "Nail gun",
+        "Water blaster",
+        "Heat gun",
+        "Spray gun",
+        "Concrete mixer",
+        "Concrete cutter",
+        "Plate compactor",
+        "Concrete vibrator",
+        "Groove cutter"
+      ]
+    },
+    {
+      "id": "ka_q2_row8_ppe",
+      "text": "What PPE needs to be used?\nLine 8",
+      "image": "blank.jpg",
+      "hint": "Accept relevant PPE for the listed tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(safety\\s*glasses|glasses|goggles|eye\\s*protection|face\\s*shield)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(ear\\s*muffs|hearing\\s*protection|ear\\s*protection|ear\\s*plugs?)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(dust\\s*mask|respirator|mask|gloves|boots|steel\\s*cap\\s*boots|overalls|apron)",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row8_safe_use",
+      "text": "Describe, safe use of this tool.\nLine 8",
+      "image": "blank.jpg",
+      "hint": "Student should describe safe operation suited to the chosen tool.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(secure|clamp|line\\s*of\\s*vision|both\\s*hands|do\\s*not\\s*force|correct\\s*blade|correct\\s*bit|wait\\s*until\\s*full\\s*speed|keep\\s*clear|guard|disconnect)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(safe|careful|trained|follow\\s*instructions|control|keep\\s*body\\s*away|off\\s*position)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": ".+",
+          "flags": "i"
+        }
+      ]
+    },
+    {
+      "id": "ka_q2_row8_care_and_maintenance",
+      "text": "What care and maintenance is required to keep this tool in good working condition?\nLine 8",
+      "image": "blank.jpg",
+      "hint": "Student should mention cleaning, storage, sharpness, damage reporting or similar.",
+      "type": "long",
+      "maxPoints": 3,
+      "rubric": [
+        {
+          "points": 1,
+          "check": "(clean|wipe\\s*down|dust|remove\\s*concrete|empty\\s*dust\\s*bag|clean\\s*after\\s*use)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(store|rack|case|dry\\s*place|put\\s*away|charge\\s*the\\s*battery)",
+          "flags": "i"
+        },
+        {
+          "points": 1,
+          "check": "(sharp|replace\\s*worn|inspect|check\\s*for\\s*damage|report\\s*damage|oil|rust)",
+          "flags": "i"
         }
       ]
     }
   ]
 }
+        }
+  ]
