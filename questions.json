@@ -1555,6 +1555,7 @@
     {
       "id": "24350-knowledgeassessment",
       "title": "Knowledge Assessment - 24350 (v3) – Identify, select, maintain, and use power tools for BCATS projects",
+      "attachSignoff": true,
       "subtitle": "Eight-tool knowledge table and PPE, safe use, care and maintenance table",
       "usNumber": "24350",
       "usVersion": "v3",
