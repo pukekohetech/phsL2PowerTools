@@ -1572,7 +1572,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -1595,13 +1595,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -1682,7 +1682,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -1705,13 +1705,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -1792,7 +1792,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -1815,13 +1815,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -1902,7 +1902,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -1925,13 +1925,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -2012,7 +2012,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -2035,13 +2035,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -2122,7 +2122,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -2145,13 +2145,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -2232,7 +2232,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -2255,13 +2255,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -2342,7 +2342,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -2365,13 +2365,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -2452,7 +2452,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -2475,13 +2475,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -2571,7 +2571,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -2594,13 +2594,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -2690,7 +2690,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -2713,13 +2713,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -2809,7 +2809,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -2832,13 +2832,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -2928,7 +2928,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -2951,13 +2951,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -3047,7 +3047,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -3070,13 +3070,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -3166,7 +3166,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -3189,13 +3189,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
@@ -3285,7 +3285,7 @@
       "rubric": [
         {
           "points": 1,
-          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Water blaster|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Concrete vibrator|Groove cutter)$",
+          "check": "^(Portable electric drill|Cordless drill|Hammer drill|Angle drill|Post hole borer|Electric Plane|Impact driver|Jigsaw|Reciprocating saw|Skill Saw|Router|Oscillating multi-tool|Finishing sander|Belt sander|Disc sander|Disc grinder|Biscuit jointer|Nail gun|Brad Nailer|Heat gun|Spray gun|Concrete mixer|Concrete cutter|Plate compactor|Domino Cutter|Groove cutter)$",
           "flags": "i"
         }
       ],
@@ -3308,13 +3308,13 @@
         "Disc grinder",
         "Biscuit jointer",
         "Nail gun",
-        "Water blaster",
+        "Brad Nailer",
         "Heat gun",
         "Spray gun",
         "Concrete mixer",
         "Concrete cutter",
         "Plate compactor",
-        "Concrete vibrator",
+        "Domino Cutter",
         "Groove cutter"
       ]
     },
