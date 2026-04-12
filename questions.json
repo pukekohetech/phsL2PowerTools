@@ -1,0 +1,351 @@
+{
+  "APP_ID": "pukekohetech-24350",
+  "VERSION": "2026",
+  "APP_TITLE": "US 24350 - Portable Power Tools",
+  "APP_SUBTITLE": "PHS - L2 Building - Assessment",
+
+  "ASSESSMENTS": [
+
+    {
+      "id": "24350-selfreflection1",
+      "title": "Learner Self-reflection 1 – 24350 (v3)",
+      "questions": [
+
+        {
+          "id": "sr1_q1",
+          "text": "What are the possible consequences of failing to disconnect a power tool from the power source before making adjustments to it?",
+          "type": "long",
+          "maxPoints": 2,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(start|turn\\s*on|operate|activate|live|unexpected)",
+              "flags": "i"
+            },
+            {
+              "points": 1,
+              "check": "(injur(y|ies)|harm|cut|shock|electrocute|danger|hurt)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q2_ac_adv",
+          "text": "AC mains-powered tools Advantages:",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(no\\s*recharge|constant\\s*power|more\\s*power|strong|powerful)",
+              "flags": "i"
+            }
+          ]
+        },
+        {
+          "id": "sr1_q2_ac_dis",
+          "text": "AC mains-powered tools Disadvantages:",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(cord|cable|trip|shock|electrical)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q2_cordless_adv",
+          "text": "Cordless power tools Advantages:",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(portable|no\\s*cord|battery|move\\s*freely)",
+              "flags": "i"
+            }
+          ]
+        },
+        {
+          "id": "sr1_q2_cordless_dis",
+          "text": "Cordless power tools Disadvantages:",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(battery|flat|limited|charge|less\\s*power|weaker)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q2_pneumatic_adv",
+          "text": "Pneumatic tools Advantages:",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(no\\s*electric|no\\s*shock|powerful|light)",
+              "flags": "i"
+            }
+          ]
+        },
+        {
+          "id": "sr1_q2_pneumatic_dis",
+          "text": "Pneumatic tools Disadvantages:",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(hose|trip|noise|compressor|air\\s*line)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q3",
+          "text": "Why should you never carry a power tool by the lead or unplug it by pulling on the lead?",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(damage|wire|loose|exposed|shock|electrocute)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q4",
+          "text": "What hazards are associated with laying extension leads directly on the ground?",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(trip|fall|hazard|injur(y|ies))",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q5",
+          "text": "What should you do if you find a kink in a lead?",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(unwind|straighten|check|inspect|damage)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q6",
+          "text": "What is likely to happen if you roll your leads up in a tight knot or ball?",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(heat|overheat|fire|melt)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q7",
+          "text": "What could happen if you cut through a live extension lead?",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(shock|electrocute|die|death)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q8",
+          "text": "What does smoke coming from a power tool, or one that smells of burning, indicate and what should be done to remedy the situation?",
+          "type": "long",
+          "maxPoints": 2,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(overheat|burning|too\\s*hot)",
+              "flags": "i"
+            },
+            {
+              "points": 1,
+              "check": "(stop|turn\\s*off|cool|check|inspect)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr1_q9",
+          "text": "What are the effects of having clogged or blocked air vents on a tool?",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(overheat|heat|motor\\s*damage|burn)",
+              "flags": "i"
+            }
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "id": "24350-selfreflection2",
+      "title": "Learner Self-reflection 2 – 24350 (v3)",
+      "questions": [
+
+        {
+          "id": "sr2_q1",
+          "text": "Why do you not use a poorly-fitting screwdriver bit when using a power screwdriver?",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(slip|strip|damage|injur(y|ies)|stab)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr2_q2",
+          "text": "What materials are the cheapest drill bits made of?",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(HSS|high\\s*speed\\s*steel)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr2_q3",
+          "text": "What is the disadvantage of using this type of drill bit?",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(blunt|wear|lose\\s*edge|dull)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr2_q4",
+          "text": "What is the most common type of quality general-purpose drill bit?",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(tungsten\\s*carbide|carbide)",
+              "flags": "i"
+            }
+          ]
+        },
+
+        {
+          "id": "sr2_q10_1",
+          "text": "Identify 4 safety rules for when using a portable power drill. Rule 1",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [{ "points": 1, "check": "(clamp|secure|hold)", "flags": "i" }]
+        },
+        {
+          "id": "sr2_q10_2",
+          "text": "Identify 4 safety rules for when using a portable power drill. Rule 2",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [{ "points": 1, "check": "(glasses|goggles|eye|ear|muffs|PPE)", "flags": "i" }]
+        },
+        {
+          "id": "sr2_q10_3",
+          "text": "Identify 4 safety rules for when using a portable power drill. Rule 3",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [{ "points": 1, "check": "(cord|safe|handle)", "flags": "i" }]
+        },
+        {
+          "id": "sr2_q10_4",
+          "text": "Identify 4 safety rules for when using a portable power drill. Rule 4",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [{ "points": 1, "check": "(check|inspect|condition)", "flags": "i" }]
+        }
+
+      ]
+    },
+
+    {
+      "id": "24350-knowledgeassessment",
+      "title": "Knowledge Assessment – 24350 (v3)",
+      "questions": [
+
+        {
+          "id": "ka_q1_tool1_name",
+          "text": "Name of power tool (Row 1)",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [{ "points": 1, "check": ".+", "flags": "i" }]
+        },
+        {
+          "id": "ka_q1_tool1_use",
+          "text": "What is it used for? (Row 1)",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [{ "points": 1, "check": ".+", "flags": "i" }]
+        },
+        {
+          "id": "ka_q1_tool1_reason",
+          "text": "What makes it a good choice? (Row 1)",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [{ "points": 1, "check": ".+", "flags": "i" }]
+        },
+        {
+          "id": "ka_q1_tool1_alternative",
+          "text": "What would be different to select another tool? (Row 1)",
+          "type": "long",
+          "maxPoints": 1,
+          "rubric": [{ "points": 1, "check": ".+", "flags": "i" }]
+        }
+
+      ]
+    }
+
+  ]
+}
