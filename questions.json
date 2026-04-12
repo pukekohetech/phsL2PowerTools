@@ -1564,25 +1564,19 @@
       "questions": [
         {
           "id": "ka_q1_row1_tool_name",
-          "text": "Name of power tool.\n(Minimum 8 required)\nLine 1",
-        "image": "blank.jpg",
-  "hint": "Choose the project where this tool was used.",
-  "type": "mc",
-  "maxPoints": 1,
-  "rubric": [
-    {
-      "points": 1,
-      "check": "^(Project 1|Project 2|Both Project 1 and Project 2|Neither)$",
-      "flags": "i"
-    }
-  ],
-  "options": [
-    "Project 1",
-    "Project 2",
-    "Both Project 1 and Project 2",
-    "Neither"
-  ]
-},
+"text": "Name of power tool.\n(Minimum 8 required)\nLine 1",
+          "image": "blank.jpg",
+          "hint": "Any valid portable power tool from the course is acceptable.",
+          "type": "short",
+          "maxPoints": 1,
+          "rubric": [
+            {
+              "points": 1,
+              "check": "(drill|cordless\\s*drill|hammer\\s*drill|impact\\s*driver|jig\\s*saw|jigsaw|reciprocating\\s*saw|sabre\\s*saw|portable\\s*circular\\s*saw|router|power\\s*planer|finishing\\s*sander|orbital\\s*sander|belt\\s*sander|disc\\s*sander|polisher|angle\\s*grinder|biscuit\\s*jointer|plate\\s*jointer|nail\\s*gun|water\\s*blaster|heat\\s*gun|spray\\s*gun|concrete\\s*mixer|concrete\\s*cutter|plate\\s*compactor|vibrator|groove\\s*cutter|angle\\s*drill|post\\s*hole\\s*borer)",
+              "flags": "i"
+            }
+          ]
+        },
         {
           "id": "ka_q1_row1_used_for",
           "text": "What is it used for?\nLine 1",
