@@ -829,7 +829,7 @@
           "hint": "Accept travel/run unpredictably, blade damage, injury.",
           "type": "long",
           "maxPoints": 3,
-         "rubric": [
+        "rubric": [
   {
     "points": 1,
     "check": "(travel|move|moving|slide|sliding|jump|kick|run\\s*across|gain\\s*traction|catch.*surface|unexpected|unpredictab)",
