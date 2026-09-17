@@ -829,23 +829,23 @@
           "hint": "Accept travel/run unpredictably, blade damage, injury.",
           "type": "long",
           "maxPoints": 3,
-          "rubric": [
-            {
-              "points": 1,
-              "check": "(travel|move|gain\\s*traction|run\\s*across|unpredictable)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(damage\\s*to\\s*the\\s*blade|chip|tooth\\s*tip)",
-              "flags": "i"
-            },
-            {
-              "points": 1,
-              "check": "(injur|harm).*(user|bystander|others)",
-              "flags": "i"
-            }
-          ]
+         "rubric": [
+  {
+    "points": 1,
+    "check": "(travel|move|moving|slide|sliding|jump|kick|run\\s*across|gain\\s*traction|catch.*surface|unexpected|unpredictab)",
+    "flags": "i"
+  },
+  {
+    "points": 1,
+    "check": "(damage.*(blade|teeth)|blade.*damage|chip|chipped|dull|dulling|tooth\\s*tip|teeth.*(damage|chip|dull))",
+    "flags": "i"
+  },
+  {
+    "points": 1,
+    "check": "(injur|harm|hurt|cut|lacerat|wound)",
+    "flags": "i"
+  }
+]
         },
         {
           "id": "sr3_q21_rule_1",
